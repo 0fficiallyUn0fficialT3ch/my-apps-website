@@ -1,0 +1,4 @@
+# This is a placeholder file for the magic spell sprite sheet
+# Please replace this file with your actual magic_spell.png sprite sheet
+# The sprite sheet should be a 5x4 grid (20 frames total) with each frame being 64x64 pixels
+# Total image size should be 320x256 pixels (5 frames wide x 4 frames tall) 

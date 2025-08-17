@@ -1,0 +1,21 @@
+{
+  "name": "Skulls and Daggers",
+  "short_name": "Skulls&Daggers",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#111111",
+  "theme_color": "#111111",
+  "description": "A dark fantasy isometric action game.",
+  "icons": [
+    {
+      "src": "/20250719_2340_Knight in Dark Cemetery_remix_01k0jygx76fmpvg66ntyjz665j.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/20250719_2340_Knight in Dark Cemetery_remix_01k0jygx76fmpvg66ntyjz665j.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}

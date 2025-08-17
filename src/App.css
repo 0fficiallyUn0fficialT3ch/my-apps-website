@@ -40,3 +40,27 @@
 .read-the-docs {
   color: #888;
 }
+
+/* Accessibility: Forced Colors Mode (High Contrast) */
+@media (forced-colors: active) {
+  body {
+    background: Window;
+    color: WindowText;
+  }
+  a, a:visited {
+    color: LinkText;
+    text-decoration: underline;
+  }
+  a:active {
+    color: ActiveText;
+  }
+  button, input, select, textarea {
+    background: ButtonFace;
+    color: ButtonText;
+    border-color: ButtonText;
+  }
+  ::selection {
+    background: Highlight;
+    color: HighlightText;
+  }
+}
